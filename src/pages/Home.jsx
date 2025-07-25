@@ -1,4 +1,5 @@
 // File: /src/pages/Home.jsx
+import React from 'react';
 
 export default function Home() {
   return (
@@ -47,6 +48,7 @@ export default function Home() {
         </video>
         {/* Right side intentionally left empty */}
       </div>
+
     </div>
   );
 }
